@@ -2,8 +2,8 @@ Simulations of long polymers near phase transition:
 [File](https://github.com/kamilla0503/saw/blob/master/Ising/long_chains_header.txt)
  
 
-N - length of chain 
-J - interaction energy 
+N - length of chain \\
+J - interaction energy \\
 h - external field 
 mean_R_sq - mean of squared end-to-end distance 
 err_mean_R_sq - error for mean of squared end-to-end distance 
