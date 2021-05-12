@@ -10,11 +10,11 @@ err_mean_R_sq - error for mean of squared end-to-end distance \
 mean_R_gyr_sq - mean of squared gyration radius \
 err_mean_R_gyr_sq - error for mean of squared gyration radius \
 mean_e - absolute of mean energy per spin\
-err_mean_e \ 
+err_mean_e - error of mean energy per spin \ 
 mean_e_sq - second moment of energy  \
-err_mean_e_sq \
-mean_e_fourth \
-err_mean_e_fourth \
+err_mean_e_sq -  error for second moment of energy \
+mean_e_fourth - fourth moment of energy \
+err_mean_e_fourth - error for fourth moment of energy \
 mean_m - mean of abs of magnetization per spin \
 err_mean_m - error for mean of abs of magnetization per spin \
 mean_m_sq  - second moment of magnetization per spin \
